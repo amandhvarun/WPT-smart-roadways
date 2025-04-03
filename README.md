@@ -28,3 +28,28 @@ This project focuses on the **design and implementation of a wireless power tran
 ```sh
 git clone https://github.com/yourusername/wpt-smart-roadways.git
 cd wpt-smart-roadways
+```
+### 2️⃣ Hardware Setup
+- Place transmitting coils inside the road infrastructure.
+- Attach the receiver coil to the EV model.
+- Connect Arduino, sensors, and relay circuits as per the circuit diagram.
+
+### 3️⃣ Upload the Code
+Open Arduino IDE and upload the firmware to the microcontroller.
+
+### 4️⃣ Run the Simulation
+Turn on the system and place the EV on the smart road.
+Observe wireless charging in action as the vehicle moves.
+
+### 🚀 Future Enhancements
+1. Solar-Powered Roadways for sustainable energy solutions.
+2. Real-Time Traffic Monitoring for efficient lane management.
+3. IoT-Enabled Sensors for predictive maintenance and adaptive charging.
+
+👥 Contributors
+
+📜 License
+This project is licensed under the MIT License.
+
+📧 Contact
+For inquiries, reach out via varunamandh12@gmail.com or open an issue in this repository.
